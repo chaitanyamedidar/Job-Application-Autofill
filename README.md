@@ -104,7 +104,7 @@ if (value.length > maxLength) {
 }
 ```
 
-## 🧪 Testing
+## Testing
 
 Test files included:
 - `test-form.html` - Basic form testing
@@ -126,7 +126,7 @@ zobsai/
 └── test-*.html                # Test files
 ```
 
-## 🔒 Security & Privacy
+## Security & Privacy
 
 - Local-only storage (Chrome sync)
 - No external API calls

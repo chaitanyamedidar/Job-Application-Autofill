@@ -7,12 +7,13 @@ A professional Chrome extension (Manifest V3) that automatically fills job appli
 ### Extension Setup & Configuration
 See how to install and configure the extension with your information:
 
-https://github.com/user-attachments/assets/Recording%202025-12-23%20173441.mp4
+![](assets\demo-setup.gif)
+
 
 ### Autofill in Action
 Watch the extension automatically fill job application forms:
 
-https://github.com/user-attachments/assets/Recording%202025-12-23%20173552.mp4
+
 
 ## 📋 Extension Overview
 

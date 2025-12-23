@@ -2,6 +2,18 @@
 
 A professional Chrome extension (Manifest V3) that automatically fills job application forms with one click. Save time on repetitive data entry with intelligent form field detection and comprehensive autofill support.
 
+## 🎥 Demo Videos
+
+### Extension Setup & Configuration
+See how to install and configure the extension with your information:
+
+https://github.com/user-attachments/assets/Recording%202025-12-23%20173441.mp4
+
+### Autofill in Action
+Watch the extension automatically fill job application forms:
+
+https://github.com/user-attachments/assets/Recording%202025-12-23%20173552.mp4
+
 ## 📋 Extension Overview
 
 This Chrome extension streamlines the job application process by automatically filling common form fields with your saved information. Built with Manifest V3, it features smart field detection that handles various form layouts including split name fields, phone number formats, and confirmation fields.

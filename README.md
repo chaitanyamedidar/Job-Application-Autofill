@@ -133,20 +133,4 @@ zobsai/
 - No data collection or tracking
 - Secure permissions (activeTab, scripting, storage)
 
-## ⚠️ Limitations
 
-- May not work on dynamically loaded forms (React/Vue SPAs)
-- Shadow DOM elements not currently supported
-- Some CSP-restricted sites may block autofill
-
-## 👨‍💻 Skills Demonstrated
-
-- **JavaScript**: ES6+ features, async programming, DOM manipulation
-- **Chrome Extension Development**: Manifest V3, content scripts, message passing, storage API
-- **Problem Solving**: Edge case handling, phone format parsing, field detection algorithms
-- **Code Quality**: Clean architecture, self-documenting code, modular functions
-- **User Experience**: Visual feedback, error handling, data validation
-
----
-
-**Assignment Submission** - Chrome Extension Development demonstrating JavaScript expertise and extension API knowledge. 

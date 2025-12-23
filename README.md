@@ -52,8 +52,8 @@ User Input → Chrome Storage → Content Script Injection → Field Detection �
 
 **Key Components:**
 - `manifest.json` - Manifest V3 configuration with permissions
-- `popup.js` - Settings management and message passing (120 lines)
-- `content.js` - Field detection and autofill logic (440 lines)
+- `popup.js` - Settings management and message passing 
+- `content.js` - Field detection and autofill logic 
 - `styles.css` - Modern responsive UI styling
 
 ### Field Detection Strategy

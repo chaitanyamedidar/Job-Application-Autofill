@@ -2,7 +2,7 @@
 
 A Chrome extension (Manifest V3) that automatically fills job application forms with intelligent field detection and data persistence.
 
-## 🎥 Demo
+## Demo
 
 ### Extension Setup & Configuration
 ![Setup Demo](assets/setup-demo.gif)
@@ -10,7 +10,7 @@ A Chrome extension (Manifest V3) that automatically fills job application forms 
 ### Autofill in Action
 ![Autofill Demo](assets/autofill-demo.gif)
 
-## 🎯 Features
+## Features
 
 - **Smart Field Detection**: Recognizes 14+ field types using multiple selector strategies
 - **Split Field Support**: Handles separate first/middle/last name fields and phone number components
@@ -20,14 +20,14 @@ A Chrome extension (Manifest V3) that automatically fills job application forms 
 - **Visual Feedback**: Green highlighting for successfully filled fields
 - **Persistent Storage**: Chrome sync storage for cross-device data synchronization
 
-## 🚀 Installation
+## Installation
 
 1. Navigate to `chrome://extensions/`
 2. Enable **Developer mode**
 3. Click **Load unpacked** and select the extension folder
 4. Pin the extension to your toolbar
 
-## 📖 Usage
+## Usage
 
 1. Click the extension icon and enter your information
 2. Click **Save Settings**
@@ -35,7 +35,7 @@ A Chrome extension (Manifest V3) that automatically fills job application forms 
 4. Click **Autofill Form** button
 5. Review and submit
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Tech Stack
 - **JavaScript ES6+**: Async/await, arrow functions, destructuring, array methods

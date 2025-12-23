@@ -27,7 +27,7 @@ This Chrome extension streamlines the job application process by automatically f
 - **Professional URLs**: Supports LinkedIn, GitHub, and portfolio links
 - **Persistent Storage**: Securely saves your information using Chrome's sync storage
 
-## 🎯 Features
+## Features
 
 - **One-Click Autofill**: Fill entire forms with a single button click
 - **Smart Field Detection**: Automatically detects and fills:
@@ -47,7 +47,7 @@ This Chrome extension streamlines the job application process by automatically f
 - **Visual Feedback**: Green highlighting shows successfully filled fields
 - **Clean, Modern UI**: Professional popup interface with organized field layout
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Google Chrome browser (version 88 or higher)
@@ -87,7 +87,7 @@ This Chrome extension streamlines the job application process by automatically f
 - **Errors shown**: Check the browser console for specific error messages
 - **Icon not showing**: Click the Extensions puzzle icon and pin the extension
 
-## 📖 How to Use the Extension
+## How to Use the Extension
 
 ### First-Time Setup
 

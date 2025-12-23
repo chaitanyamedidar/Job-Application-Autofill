@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Application Autofill</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Job Application Autofill</h1>
+    <p class="description">Click the button below to automatically fill job application fields on this page.</p>
+    
+    <button id="autofillBtn" class="autofill-btn">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M9 11l3 3L22 4"></path>
+        <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"></path>
+      </svg>
+      Autofill Form
+    </button>
+    
+    <div id="status" class="status"></div>
+    
+    <div class="info">
+      <h3>Required Information</h3>
+      
+      <div class="name-fields">
+        <div class="form-group">
+          <label for="firstName">First Name: <span class="required">*</span></label>
+          <input type="text" id="firstName" placeholder="John">
+        </div>
+        
+        <div class="form-group">
+          <label for="middleName">Middle Name:</label>
+          <input type="text" id="middleName" placeholder="Michael">
+        </div>
+        
+        <div class="form-group">
+          <label for="lastName">Last Name: <span class="required">*</span></label>
+          <input type="text" id="lastName" placeholder="Doe">
+        </div>
+      </div>
+      
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="john.doe@example.com">
+      </div>
+      
+      <div class="form-group">
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" placeholder="+1 (555) 123-4567">
+      </div>
+      
+      <div class="form-group">
+        <label for="skills">Skills/Experience:</label>
+        <textarea id="skills" rows="3" placeholder="JavaScript, React, Node.js..."></textarea>
+      </div>
+      
+      <h3>Optional Information</h3>
+      
+      <div class="form-group">
+        <label for="linkedIn">LinkedIn URL:</label>
+        <input type="url" id="linkedIn" placeholder="https://linkedin.com/in/yourprofile">
+      </div>
+      
+      <div class="form-group">
+        <label for="github">GitHub URL:</label>
+        <input type="url" id="github" placeholder="https://github.com/yourusername">
+      </div>
+      
+      <div class="form-group">
+        <label for="portfolio">Portfolio/Website:</label>
+        <input type="url" id="portfolio" placeholder="https://yourportfolio.com">
+      </div>
+      
+      <div class="form-group">
+        <label for="city">City:</label>
+        <input type="text" id="city" placeholder="San Francisco">
+      </div>
+      
+      <button id="saveBtn" class="save-btn">Save Settings</button>
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
